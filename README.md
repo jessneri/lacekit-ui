@@ -15,10 +15,10 @@ A ideia é fornecer uma base de componentes reutilizáveis que sigam boas práti
 ## 🚀 Tecnologias Utilizadas
 
 - **React + TypeScript**  
-- **Vite** (build rápido ⚡)  
-- **ESLint + Prettier** (código limpo e padronizado)  
-- **Storybook** (documentação de componentes)  
-- **Vitest + React Testing Library + Axe-core** (testes com acessibilidade)  
+- **Vite**
+- **ESLint + Prettier**
+- **Storybook** 
+- **Vitest + React Testing Library + Axe-core**  
 
 ---
 
